@@ -47,7 +47,7 @@ This lab focuses on developing practical skills in log analysis and threat detec
        
 <img width="1744" height="858" alt="Screenshot 2026-04-07 194411" src="https://github.com/user-attachments/assets/68461f9d-4e57-445a-8668-0ea47cc3cce5" />
 
-        Step 7- Looked at event_types that connected without Authentication 
+        Step 7- Looked at event_types that connected without Authentication to see if the same ips are also having multiple failed login attempts 
 
 <img width="1727" height="877" alt="Screenshot 2026-04-07 194527" src="https://github.com/user-attachments/assets/22e3648e-0f57-43fa-9e16-66cd861c20ba" />
 
