@@ -33,15 +33,27 @@ This lab focuses on developing practical skills in log analysis and threat detec
 
        Step 3- Looked into event_types that were Multiple Failed Login Attempts to find IPs with Suspicious Attempts
        
+
+
 <img width="1771" height="966" alt="Screenshot 2026-04-07 193830" src="https://github.com/user-attachments/assets/54a5d9eb-73ba-445b-8aa1-05092a116bfa" />
 
         Step 4- Made a Alert for Multiple Failed Login Attempts So when it happens makes a alert 
         
-<img width="1774" height="935" alt="Screenshot 2026-04-07 193927" src="https://github.com/user-attachments/assets/3879a35a-16e9-4207-a39d-804e811cb750" />
 
-       Step 5- Looked into Successful SSH logins to see if the same ip addresses that Failed got Access 
 
-  <img width="1714" height="875" alt="Screenshot 2026-04-07 194239" src="https://github.com/user-attachments/assets/f7af1019-5346-488f-9392-477c2026a746" />
+
+
+<img width="800" height="800" alt="Screenshot 2026-04-07 193927" src="https://github.com/user-attachments/assets/3879a35a-16e9-4207-a39d-804e811cb750" />
+
+       
+       
+       
+       Step 5- Looked into Successful SSH logins to see if the same ip addresses that Failed got Access
+
+
+
+
+<img width="1714" height="875" alt="Screenshot 2026-04-07 194239" src="https://github.com/user-attachments/assets/f7af1019-5346-488f-9392-477c2026a746" />
 
         Step 6- Made new dashboard for Successful login in attempts 
        
